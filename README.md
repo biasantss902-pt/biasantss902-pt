@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou estudante de Cibersegurança
 
-<!--
-**biasantss902-pt/biasantss902-pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Objetivo
 
-Here are some ideas to get you started:
+Busco oportunidade como Analista SOC ou área de Segurança da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades
+
+* Análise de logs
+* Segurança de redes
+* Detecção de ataques
+* Linux básico
+
+---
+
+## 📂 Projetos
+
+* SSH Brute Force Analysis
+* Web Attack Analysis
+* Network Traffic Analysis
+* Incident Response Simulation
+
+---
+
+## 🚀 Em evolução
+
+Atualmente estudando cibersegurança prática com foco em SOC.
