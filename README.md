@@ -1,29 +1,44 @@
-# 👋 Olá, eu sou estudante de Cibersegurança
+# 👋 Olá, eu sou Bianca
 
-## 🎯 Objetivo
-
-Busco oportunidade como Analista SOC ou área de Segurança da Informação.
+🎯 Estudante de Cibersegurança com foco em SOC (Security Operations Center)
 
 ---
 
 ## 🛠️ Habilidades
 
-* Análise de logs
-* Segurança de redes
-* Detecção de ataques
-* Linux básico
+* Análise de logs (SSH, Web, Network)
+* Detecção de ataques (Brute Force, Web Attacks)
+* Redes e protocolos
+* Linux (CLI, análise de logs, comandos de rede)
+
+---
+
+## 🧰 Ferramentas
+
+* Wireshark
+* Nmap
+* PowerShell
+* Visual Studio Code
+* grep / findstr
 
 ---
 
 ## 📂 Projetos
 
-* SSH Brute Force Analysis
-* Web Attack Analysis
-* Network Traffic Analysis
-* Incident Response Simulation
+* [SSH Brute Force Analysis](https://github.com/biasantss902-pt/soc-ssh-brute-force-analysis)
+* [Web Attack Analysis](https://github.com/biasantss902-pt/web-log-attack-analysis)
+* [Network Traffic Analysis](https://github.com/biasantss902-pt/network-traffic-analysis)
 
 ---
 
-## 🚀 Em evolução
+## 📚 Em aprendizado
 
-Atualmente estudando cibersegurança prática com foco em SOC.
+* SOC Operations
+* SIEM (Splunk / Elastic)
+* CompTIA Security+
+
+---
+
+## 🚀 Objetivo
+
+Atuar como Analista SOC e evoluir na área de Segurança da Informação.
